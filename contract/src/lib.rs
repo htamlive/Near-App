@@ -11,18 +11,23 @@ use near_sdk::{log, near_bindgen};
 
 // Define the default message
 const DEFAULT_MESSAGE: &str = "Hello";
+const DEFAULT_MESSAGE_2: &str = "Nice to meet you";
 
 // Define the contract structure
 #[near_bindgen]
 #[derive(BorshDeserialize, BorshSerialize)]
 pub struct Contract {
     message: String,
+    message_2: String,
 }
 
 // Define the default, which automatically initializes the contract
 impl Default for Contract{
     fn default() -> Self{
-        Self{message: DEFAULT_MESSAGE.to_string()}
+        Self{
+            message: DEFAULT_MESSAGE.to_string(),
+            message_2: DEFAULT_MESSAGE_2.to_string(),
+        }
     }
 }
 
@@ -34,11 +39,21 @@ impl Contract {
         return self.message.clone();
     }
 
+    pub fn get_greeting_2(&self) ->String {
+        return self.message_2.clone();
+    }
+
     // Public method - accepts a greeting, such as "howdy", and records it
     pub fn set_greeting(&mut self, message: String) {
         // Use env::log to record logs permanently to the blockchain!
         log!("Saving greeting {}", message);
         self.message = message;
+    }
+
+    pub fn set_greeting_2(&mut self, message: String) {
+        // Use env::log to record logs permanently to the blockchain!
+        log!("Saving greeting {}", message);
+        self.message_2 = message;
     }
 }
 

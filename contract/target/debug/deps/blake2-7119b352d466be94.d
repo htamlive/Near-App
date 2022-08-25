@@ -1,0 +1,15 @@
+d:\Rust\Near-App\contract\target\debug\deps\blake2-7119b352d466be94.rmeta: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\as_bytes.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\consts.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simd_opt.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdint.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdop.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdty.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2b.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2s.rs
+
+d:\Rust\Near-App\contract\target\debug\deps\blake2-7119b352d466be94.d: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\as_bytes.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\consts.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simd_opt.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdint.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdop.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdty.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2b.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2s.rs
+
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\lib.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\as_bytes.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\consts.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simd_opt.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdint.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdop.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\simd\simdty.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2b.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\blake2-0.9.2\src\blake2s.rs:

@@ -39,13 +39,14 @@ export function signInWithNearWallet() {
 }
 
 export async function setGreetingOnContract(message) {
-  let response = await window.contract.set_greeting({
+  let response = await window.contract.set_greeting_2({
     args: { message: message }
   });
   return response;
 }
 
 export async function getGreetingFromContract() {
-  let greeting = await window.contract.get_greeting();
+  let greeting = await window.contract.get_greeting_2();
+  
   return greeting;
 }

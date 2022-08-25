@@ -1,0 +1,15 @@
+d:\Rust\Near-App\contract\target\debug\deps\reed_solomon_erasure-3faa8dbe8bdf017b.rmeta: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\macros.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\core.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\errors.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\inversion_tree.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\matrix.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\galois_16.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\galois_8.rs d:\Rust\Near-App\contract\target\debug\build\reed-solomon-erasure-d32bc4c59d592853\out/table.rs
+
+d:\Rust\Near-App\contract\target\debug\deps\reed_solomon_erasure-3faa8dbe8bdf017b.d: C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\lib.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\macros.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\core.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\errors.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\inversion_tree.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\matrix.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\galois_16.rs C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\galois_8.rs d:\Rust\Near-App\contract\target\debug\build\reed-solomon-erasure-d32bc4c59d592853\out/table.rs
+
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\lib.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\macros.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\core.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\errors.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\inversion_tree.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\matrix.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\galois_16.rs:
+C:\Users\DELL\.cargo\registry\src\github.com-1ecc6299db9ec823\reed-solomon-erasure-4.0.2\src\galois_8.rs:
+d:\Rust\Near-App\contract\target\debug\build\reed-solomon-erasure-d32bc4c59d592853\out/table.rs:
+
+# env-dep:OUT_DIR=d:\\Rust\\Near-App\\contract\\target\\debug\\build\\reed-solomon-erasure-d32bc4c59d592853\\out
