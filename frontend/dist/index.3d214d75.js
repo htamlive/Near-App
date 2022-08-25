@@ -27844,11 +27844,11 @@ async function initContract() {
     window.contract = await new (0, _nearApiJs.Contract)(window.walletConnection.account(), nearConfig.contractName, {
         // View methods are read only. They don't modify the state, but usually return some value.
         viewMethods: [
-            "get_greeting"
+            "get_greeting_2"
         ],
         // Change methods can modify the state. But you don't receive the returned value when called.
         changeMethods: [
-            "set_greeting"
+            "set_greeting_2"
         ]
     });
 }
@@ -27865,7 +27865,7 @@ function signInWithNearWallet() {
     window.walletConnection.requestSignIn(nearConfig.contractName);
 }
 async function setGreetingOnContract(message) {
-    let response = await window.contract.set_greeting({
+    let response = await window.contract.set_greeting_2({
         args: {
             message: message
         }
@@ -27873,7 +27873,7 @@ async function setGreetingOnContract(message) {
     return response;
 }
 async function getGreetingFromContract() {
-    let greeting = await window.contract.get_greeting();
+    let greeting = await window.contract.get_greeting_2();
     return greeting;
 }
 
@@ -30669,8 +30669,8 @@ Object.defineProperty(exports, "BinaryReader", {
 
 },{"borsh":"4JCmN"}],"4JCmN":[function(require,module,exports) {
 "use strict";
-var global = arguments[3];
 var Buffer = require("buffer").Buffer;
+var global = arguments[3];
 var __createBinding = this && this.__createBinding || (Object.create ? function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
     Object.defineProperty(o, k2, {
@@ -38594,8 +38594,8 @@ async function signTransaction(...args) {
 exports.signTransaction = signTransaction;
 
 },{"buffer":"l67HD","js-sha256":"ahVaM","./utils/enums":"kjmPo","borsh":"4JCmN","./utils/key_pair":"kBQFP"}],"ahVaM":[function(require,module,exports) {
-var process = require("process");
 var global = arguments[3];
+var process = require("process");
 /**
  * [js-sha256]{@link https://github.com/emn178/js-sha256}
  *
